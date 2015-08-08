@@ -32,6 +32,10 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 
+APP_TITLE := 3DOS
+APP_DESCRIPTION := A DOS emulator for the 3DS!
+APP_AUTHOR := shutterbug2000
+
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
